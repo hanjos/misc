@@ -5,3 +5,4 @@ nodejs,diferenciacao,language,false,NodeJS
 lua,inovacao,language,false,Linguagem de programação Lua
 git,registro,tools,false,Git
 clearcase,legado,tools,false,ClearCase
+sharepoint,diferenciacao,plataforma,true,SharePoint
