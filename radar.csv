@@ -1,9 +1,8 @@
 name,ring,quadrant,isNew,description
-java,registro,language,false,Linguagem de programação Java
-scrum,registro,techniques,false,Método Ágil
-nodejs,diferenciacao,language,false,NodeJS
-lua,inovacao,language,false,Linguagem de programação Lua
-git,registro,tools,false,Git
-clearcase,legado,tools,false,ClearCase
-sharepoint,diferenciacao,plataforma,true,SharePoint
-outra coisa,inovacao,plataforma,true,whatever
+java,adotar,linguagens,false,Linguagem de programação Java
+scrum,adotar,técnicas,false,Método Ágil
+git,adotar,ferramentas,false,Git
+nodejs,testar,linguagens,false,NodeJS
+sharepoint,testar,plataformas,true,SharePoint
+lua,observar,linguagens,false,Linguagem de programação Lua
+clearcase,evitar,ferramentas,false,ClearCase
