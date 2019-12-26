@@ -1,0 +1,7 @@
+name,ring,quadrant,isNew,description
+java,registro,language,false,Linguagem de programação Java
+scrum,registro,techniques,false,Método Ágil
+nodejs,diferenciacao,language,false,NodeJS
+lua,inovacao,language,false,Linguagem de programação Lua
+git,registro,tools,false,Git
+clearcase,legado,tools,false,ClearCase
