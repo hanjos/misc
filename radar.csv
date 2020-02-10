@@ -1,8 +1,0 @@
-name,ring,quadrant,isNew,description
-java,adotar,linguagens,false,Linguagem de programação Java
-scrum,adotar,técnicas,false,Método Ágil
-git,adotar,ferramentas,false,Git
-nodejs,testar,linguagens,false,NodeJS
-sharepoint,testar,plataformas,true,SharePoint
-lua,observar,linguagens,false,Linguagem de programação Lua
-clearcase,evitar,ferramentas,false,ClearCase
